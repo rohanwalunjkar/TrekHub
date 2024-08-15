@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1111\\TrekHubMiddlebydotnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{522A8569-D6D1-4401-A811-35F39EA82188}|TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet.csproj|d:\\1111\\trekhubmiddlebydotnet\\trekhubmiddlebydotnet\\models\\trekhubdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522A8569-D6D1-4401-A811-35F39EA82188}|TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet.csproj|solutionrelative:trekhubmiddlebydotnet\\models\\trekhubdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522A8569-D6D1-4401-A811-35F39EA82188}|TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet.csproj|d:\\1111\\trekhubmiddlebydotnet\\trekhubmiddlebydotnet\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{522A8569-D6D1-4401-A811-35F39EA82188}|TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet.csproj|solutionrelative:trekhubmiddlebydotnet\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522A8569-D6D1-4401-A811-35F39EA82188}|TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet.csproj|d:\\1111\\trekhubmiddlebydotnet\\trekhubmiddlebydotnet\\trekhubmiddlebydotnet.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{522A8569-D6D1-4401-A811-35F39EA82188}|TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet.csproj|solutionrelative:trekhubmiddlebydotnet\\trekhubmiddlebydotnet.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522A8569-D6D1-4401-A811-35F39EA82188}|TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet.csproj|d:\\1111\\trekhubmiddlebydotnet\\trekhubmiddlebydotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522A8569-D6D1-4401-A811-35F39EA82188}|TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet.csproj|solutionrelative:trekhubmiddlebydotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522A8569-D6D1-4401-A811-35F39EA82188}|TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet.csproj|d:\\1111\\trekhubmiddlebydotnet\\trekhubmiddlebydotnet\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522A8569-D6D1-4401-A811-35F39EA82188}|TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet.csproj|solutionrelative:trekhubmiddlebydotnet\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522A8569-D6D1-4401-A811-35F39EA82188}|TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet.csproj|d:\\1111\\trekhubmiddlebydotnet\\trekhubmiddlebydotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{522A8569-D6D1-4401-A811-35F39EA82188}|TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet.csproj|solutionrelative:trekhubmiddlebydotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522A8569-D6D1-4401-A811-35F39EA82188}|TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet.csproj|d:\\1111\\trekhubmiddlebydotnet\\trekhubmiddlebydotnet\\models\\treksplantrekobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522A8569-D6D1-4401-A811-35F39EA82188}|TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet.csproj|solutionrelative:trekhubmiddlebydotnet\\models\\treksplantrekobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522A8569-D6D1-4401-A811-35F39EA82188}|TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet.csproj|d:\\1111\\trekhubmiddlebydotnet\\trekhubmiddlebydotnet\\controllers\\trekbookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522A8569-D6D1-4401-A811-35F39EA82188}|TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet.csproj|solutionrelative:trekhubmiddlebydotnet\\controllers\\trekbookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522A8569-D6D1-4401-A811-35F39EA82188}|TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet.csproj|d:\\1111\\trekhubmiddlebydotnet\\trekhubmiddlebydotnet\\models\\plantrek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522A8569-D6D1-4401-A811-35F39EA82188}|TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet.csproj|solutionrelative:trekhubmiddlebydotnet\\models\\plantrek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522A8569-D6D1-4401-A811-35F39EA82188}|TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet.csproj|d:\\1111\\trekhubmiddlebydotnet\\trekhubmiddlebydotnet\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522A8569-D6D1-4401-A811-35F39EA82188}|TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet.csproj|solutionrelative:trekhubmiddlebydotnet\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522A8569-D6D1-4401-A811-35F39EA82188}|TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet.csproj|d:\\1111\\trekhubmiddlebydotnet\\trekhubmiddlebydotnet\\models\\trek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522A8569-D6D1-4401-A811-35F39EA82188}|TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet.csproj|solutionrelative:trekhubmiddlebydotnet\\models\\trek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522A8569-D6D1-4401-A811-35F39EA82188}|TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet.csproj|d:\\1111\\trekhubmiddlebydotnet\\trekhubmiddlebydotnet\\models\\trekbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522A8569-D6D1-4401-A811-35F39EA82188}|TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet.csproj|solutionrelative:trekhubmiddlebydotnet\\models\\trekbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522A8569-D6D1-4401-A811-35F39EA82188}|TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet.csproj|d:\\1111\\trekhubmiddlebydotnet\\trekhubmiddlebydotnet\\models\\trekimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522A8569-D6D1-4401-A811-35F39EA82188}|TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet.csproj|solutionrelative:trekhubmiddlebydotnet\\models\\trekimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522A8569-D6D1-4401-A811-35F39EA82188}|TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet.csproj|d:\\1111\\trekhubmiddlebydotnet\\trekhubmiddlebydotnet\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522A8569-D6D1-4401-A811-35F39EA82188}|TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet.csproj|solutionrelative:trekhubmiddlebydotnet\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522A8569-D6D1-4401-A811-35F39EA82188}|TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet.csproj|d:\\1111\\trekhubmiddlebydotnet\\trekhubmiddlebydotnet\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522A8569-D6D1-4401-A811-35F39EA82188}|TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet.csproj|solutionrelative:trekhubmiddlebydotnet\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522A8569-D6D1-4401-A811-35F39EA82188}|TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet.csproj|d:\\1111\\trekhubmiddlebydotnet\\trekhubmiddlebydotnet\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522A8569-D6D1-4401-A811-35F39EA82188}|TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet.csproj|solutionrelative:trekhubmiddlebydotnet\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrekHubMiddlebydotnet.http",
+              "DocumentMoniker": "D:\\1111\\TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet.http",
+              "RelativeDocumentMoniker": "TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet.http",
+              "ToolTip": "D:\\1111\\TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet.http",
+              "RelativeToolTip": "TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-13T14:02:30.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Trekimage.cs",
+              "DocumentMoniker": "D:\\1111\\TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet\\Models\\Trekimage.cs",
+              "RelativeDocumentMoniker": "TrekHubMiddlebydotnet\\Models\\Trekimage.cs",
+              "ToolTip": "D:\\1111\\TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet\\Models\\Trekimage.cs",
+              "RelativeToolTip": "TrekHubMiddlebydotnet\\Models\\Trekimage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T18:02:37.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TreksPlantrekobj.cs",
+              "DocumentMoniker": "D:\\1111\\TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet\\Models\\TreksPlantrekobj.cs",
+              "RelativeDocumentMoniker": "TrekHubMiddlebydotnet\\Models\\TreksPlantrekobj.cs",
+              "ToolTip": "D:\\1111\\TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet\\Models\\TreksPlantrekobj.cs",
+              "RelativeToolTip": "TrekHubMiddlebydotnet\\Models\\TreksPlantrekobj.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T18:02:34.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\1111\\TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TrekHubMiddlebydotnet\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\1111\\TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TrekHubMiddlebydotnet\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-09T18:04:06.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrekhubdbContext.cs",
+              "DocumentMoniker": "D:\\1111\\TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet\\Models\\TrekhubdbContext.cs",
+              "RelativeDocumentMoniker": "TrekHubMiddlebydotnet\\Models\\TrekhubdbContext.cs",
+              "ToolTip": "D:\\1111\\TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet\\Models\\TrekhubdbContext.cs",
+              "RelativeToolTip": "TrekHubMiddlebydotnet\\Models\\TrekhubdbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T17:53:53.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Trekbooking.cs",
+              "DocumentMoniker": "D:\\1111\\TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet\\Models\\Trekbooking.cs",
+              "RelativeDocumentMoniker": "TrekHubMiddlebydotnet\\Models\\Trekbooking.cs",
+              "ToolTip": "D:\\1111\\TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet\\Models\\Trekbooking.cs",
+              "RelativeToolTip": "TrekHubMiddlebydotnet\\Models\\Trekbooking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T18:02:56.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "D:\\1111\\TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "TrekHubMiddlebydotnet\\Controllers\\PaymentsController.cs",
+              "ToolTip": "D:\\1111\\TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "TrekHubMiddlebydotnet\\Controllers\\PaymentsController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T09:52:16.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\1111\\TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet\\Program.cs",
+              "RelativeDocumentMoniker": "TrekHubMiddlebydotnet\\Program.cs",
+              "ToolTip": "D:\\1111\\TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet\\Program.cs",
+              "RelativeToolTip": "TrekHubMiddlebydotnet\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwCwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T17:53:29.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\1111\\TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet\\appsettings.json",
+              "RelativeDocumentMoniker": "TrekHubMiddlebydotnet\\appsettings.json",
+              "ToolTip": "D:\\1111\\TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet\\appsettings.json",
+              "RelativeToolTip": "TrekHubMiddlebydotnet\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-13T12:31:48.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Trek.cs",
+              "DocumentMoniker": "D:\\1111\\TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet\\Models\\Trek.cs",
+              "RelativeDocumentMoniker": "TrekHubMiddlebydotnet\\Models\\Trek.cs",
+              "ToolTip": "D:\\1111\\TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet\\Models\\Trek.cs",
+              "RelativeToolTip": "TrekHubMiddlebydotnet\\Models\\Trek.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T18:02:59.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TrekbookingsController.cs",
+              "DocumentMoniker": "D:\\1111\\TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet\\Controllers\\TrekbookingsController.cs",
+              "RelativeDocumentMoniker": "TrekHubMiddlebydotnet\\Controllers\\TrekbookingsController.cs",
+              "ToolTip": "D:\\1111\\TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet\\Controllers\\TrekbookingsController.cs",
+              "RelativeToolTip": "TrekHubMiddlebydotnet\\Controllers\\TrekbookingsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T18:01:52.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\1111\\TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "TrekHubMiddlebydotnet\\Models\\Role.cs",
+              "ToolTip": "D:\\1111\\TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet\\Models\\Role.cs",
+              "RelativeToolTip": "TrekHubMiddlebydotnet\\Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T18:03:00.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Plantrek.cs",
+              "DocumentMoniker": "D:\\1111\\TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet\\Models\\Plantrek.cs",
+              "RelativeDocumentMoniker": "TrekHubMiddlebydotnet\\Models\\Plantrek.cs",
+              "ToolTip": "D:\\1111\\TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet\\Models\\Plantrek.cs",
+              "RelativeToolTip": "TrekHubMiddlebydotnet\\Models\\Plantrek.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T18:03:02.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\1111\\TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TrekHubMiddlebydotnet\\Models\\User.cs",
+              "ToolTip": "D:\\1111\\TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet\\Models\\User.cs",
+              "RelativeToolTip": "TrekHubMiddlebydotnet\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T18:02:30.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\1111\\TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "TrekHubMiddlebydotnet\\WeatherForecast.cs",
+              "ToolTip": "D:\\1111\\TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet\\WeatherForecast.cs",
+              "RelativeToolTip": "TrekHubMiddlebydotnet\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T18:02:21.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\1111\\TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "TrekHubMiddlebydotnet\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\1111\\TrekHubMiddlebydotnet\\TrekHubMiddlebydotnet\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "TrekHubMiddlebydotnet\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T18:02:17.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
